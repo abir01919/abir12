@@ -1,6 +1,6 @@
 # abir12
 # reverse put.py
-# filename Cyber_99.cpython-310.so
+# filename Cyber-99.cpython-310.so
 W = '\033[97;1m'
 R = '\033[91;1m'
 G = '\033[92;1m'
